@@ -39,13 +39,13 @@ Competencies: Data Science, Data Analytics, Machine Learning, Artificial Intelli
 
 ### 📝 Certifications:
 
-| Certifications                                                  | Date              |
-| ----------------------------------------------------------------| :---------------: |
-| udemy.com/Python Data Structures & Algorithms                   | 02/2022 - 03/2022 |
-| datacamp.com/Data Scientist Professional                        | 02/2022 - 03/2022 |
-| datacamp.com/Data Analyst Associate                             | 02/2022 - 03/2022 |
-| coursera.org/Machine Learning(Stanford)                         | 02/2022 - 03/2022 |
-| udemy.com/Ethereum Blockchain Developer Bootcamp With Solidity  | 02/2022 - 03/2022 |
+| Certifications                                                  | Date    |
+| ----------------------------------------------------------------| :-----: |
+| udemy.com/Python Data Structures & Algorithms                   | 05/2023 |
+| datacamp.com/Data Scientist Professional                        | 04/2023 |
+| datacamp.com/Data Analyst Associate                             | 03/2023 |
+| coursera.org/Machine Learning(Stanford)                         | 03/2021 |
+| udemy.com/Ethereum Blockchain Developer Bootcamp With Solidity  | 03/2023 |
 
 
 
