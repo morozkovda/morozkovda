@@ -7,7 +7,7 @@
 
 I am an energetic and enthusiastic professional in finance and IT with the relevant work experience as a Quantitative Analyst and Data Scientist. I am passionate about data analysis, coding and investing. Currently I am Master in Finance candidate at USC Marshall School of Business.
 
-For more projects and notebooks please refer to my [Kaggle](https://www.kaggle.com/daniilmorozkov/) page.
+For more projects and notebooks please refer to my [Kaggle](https://www.kaggle.com/daniilmorozkov) page.
 
 Competencies: Data Science, Data Analytics, Machine Learning, Artificial Intelligence (Deep Learning), Blockchain, Financial and Quantitative Analysis.
 
@@ -24,7 +24,7 @@ Competencies: Data Science, Data Analytics, Machine Learning, Artificial Intelli
   <div id="badges">
     <a href="https://www.linkedin.com/in/daniil-morozkov/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    <a href="https://www.kaggle.com/daniilmorozkov/)" target="_blank">
+    <a href="https://www.kaggle.com/daniilmorozkov/" target="_blank">
       <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-1024.png" width="40" height="40" alt="kaggle" />
 
 ### 💻 Technologies:
