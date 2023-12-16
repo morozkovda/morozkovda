@@ -5,7 +5,7 @@
 
 ### ✏️ Bio:
 
-I am an energetic and enthusiastic professional in finance and IT with the relevant work experience as a Quantitative Analyst and Data Analyst. I am passionate about data analysis, coding and investing. Currently I am Master in Finance candidate at USC Marshall School of Business.
+I am an energetic and enthusiastic professional in finance and IT with the relevant work experience as a Quantitative Analyst and Data Analyst. I am passionate about data analysis, coding and investing.
 
 For more projects and notebooks please refer to my [Kaggle](https://www.kaggle.com/daniilmorozkov) page.
 
