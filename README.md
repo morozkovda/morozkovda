@@ -5,7 +5,7 @@
 
 ### ✏️ Bio:
 
-I am an energetic and enthusiastic professional in finance and IT with the relevant work experience as a Quantitative Analyst and Data Analyst. I am passionate about data analysis, coding and investing.
+Hi, I'm Daniil (Daniel), an ML/AI enthusiast deeply committed to advancing in the tech and data science sectors, with a keen interest in how they intersect with business needs. Having earned a Master's in Finance with a Quantitative focus from USC, my primary goal is in leverging the power of data analysis and coding across various industries. I have a strong IT background and I'm skilled in creating technical solutions to improve business operations. My work involves analyzing complex data to extract meaningful insights, building predictive models, and developing IT systems that support smarter decision-making. I'm passionate about the role of technology and data in transforming businesses and industries. 
 
 For more projects and notebooks please refer to my [Kaggle](https://www.kaggle.com/daniilmorozkov) page.
 
